@@ -1,0 +1,1122 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "title": "Index",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "title": "Value",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "data",
+          "idx": 0,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 1,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 2,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 3,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 4,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 5,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 6,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 7,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 8,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 9,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 10,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 11,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 12,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 13,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 14,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 15,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 16,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 17,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 18,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 19,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 20,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 21,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 22,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 23,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 24,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 25,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 26,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 27,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 28,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 29,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 30,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 31,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 32,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 33,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 34,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 35,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 36,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 37,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 38,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 39,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 40,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 41,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 42,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 43,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 44,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 45,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 46,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 47,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 48,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 49,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 50,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 51,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 52,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 53,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 54,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 55,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 56,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 57,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 58,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 59,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 60,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 61,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 62,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 63,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 64,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 65,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 66,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 67,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 68,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 69,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 70,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 71,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 72,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 73,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 74,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 75,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 76,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 77,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 78,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 79,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 80,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 81,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 82,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 83,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 84,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 85,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 86,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 87,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 88,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 89,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 90,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 91,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 92,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 93,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 94,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 95,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 96,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 97,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 98,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 99,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 100,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 101,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 102,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 103,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 104,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 105,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 106,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 107,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 108,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 109,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 110,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 111,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 112,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 113,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 114,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 115,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 116,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 117,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 118,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 119,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 120,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 121,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 122,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 123,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 124,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 125,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 126,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 127,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 128,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 129,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 130,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 131,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 132,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 133,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 134,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 135,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 136,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 137,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 138,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 139,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 140,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 141,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 142,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 143,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 144,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 145,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 146,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 147,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 148,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 149,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 150,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 151,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 152,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 153,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 154,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 155,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 156,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 157,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 158,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 159,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 160,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 161,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 162,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 163,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 164,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 165,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 166,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 167,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 168,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 169,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 170,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 171,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 172,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 173,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 174,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 175,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 176,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 177,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 178,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 179,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 180,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 181,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 182,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 183,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 184,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 185,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 186,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 187,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 188,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 189,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 190,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 191,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 192,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 193,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 194,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 195,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 196,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 197,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 198,
+          "val": null
+        },
+        {
+          "col": "data",
+          "idx": 199,
+          "val": null
+        }
+      ]
+    },
+    {
+      "name": "stats",
+      "source": "table",
+      "transform": [
+        {
+          "keys": [
+            "data.idx"
+          ],
+          "type": "facet"
+        },
+        {
+          "type": "stats",
+          "value": "data.val"
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          },
+          {
+            "height": "data.val",
+            "point": "data.idx",
+            "type": "stack"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "fill": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "width": {
+                "band": true,
+                "offset": -1,
+                "scale": "x"
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "y",
+                "scale": "y"
+              },
+              "y2": {
+                "field": "y2",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "rect"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "ordinal",
+      "zero": false
+    },
+    {
+      "domain": {
+        "data": "stats",
+        "field": "sum"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": "category20",
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}
